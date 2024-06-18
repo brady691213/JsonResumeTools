@@ -1,0 +1,138 @@
+[
+{
+  "id": "yodl5jijq0qo4lk56xzk0ed4",
+  "visible": true,
+  "name": "C#",
+  "description": "",
+  "level": "Strong",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0ed5",
+  "visible": true,
+  "name": ".NET Core and .NET Framework",
+  "description": "",
+  "level": "Strong",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0ed6",
+  "visible": true,
+  "name": "Azure DevOps",
+  "description": "",
+  "level": "Novice",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0ed7",
+  "visible": true,
+  "name": "Python",
+  "description": "",
+  "level": "Medium",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0ed8",
+  "visible": true,
+  "name": "ASP.NET Core and ASP.NET",
+  "description": "",
+  "level": "Strong",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0ed9",
+  "visible": true,
+  "name": "ASP.NET MVC",
+  "description": "",
+  "level": "Strong",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0eda",
+  "visible": true,
+  "name": "SQL Server up tp 2019",
+  "description": "",
+  "level": "Medium",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0edb",
+  "visible": true,
+  "name": "Oracle 12c",
+  "description": "",
+  "level": "Novice",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0edc",
+  "visible": true,
+  "name": "WPF",
+  "description": "",
+  "level": "Novice",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0edd",
+  "visible": true,
+  "name": "Object Oriented Programming",
+  "description": "",
+  "level": "Strong",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0ede",
+  "visible": true,
+  "name": "Angular",
+  "description": "",
+  "level": "Medium",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0edf",
+  "visible": true,
+  "name": "React",
+  "description": "",
+  "level": "Novice",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0edg",
+  "visible": true,
+  "name": "jQuery",
+  "description": "",
+  "level": "Medium",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0edh",
+  "visible": true,
+  "name": "JavaScript",
+  "description": "",
+  "level": "Medium",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0edi",
+  "visible": true,
+  "name": "TypeScript",
+  "description": "",
+  "level": "Medium",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0edj",
+  "visible": true,
+  "name": "SAP ABAP/4",
+  "description": "",
+  "level": "Weak",
+  "keywords": []
+},
+{
+  "id": "yodl5jijq0qo4lk56xzk0edk",
+  "visible": true,
+  "name": "COBOL",
+  "description": "",
+  "level": "Certificate Only",
+  "keywords": []
+}
+]
