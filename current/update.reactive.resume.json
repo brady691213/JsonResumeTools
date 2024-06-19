@@ -1,11 +1,432 @@
 {
-
-  "sections": {
-
-
-
-
-
-
-
+  "basics": {
+    "name": "Brady Kelly",
+    "headline": "Senior Software Engineer",
+    "email": "brady691213@outlook.com",
+    "phone": "+27 60 718 4673",
+    "location": "Johannesburg, South Africa",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
   },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>I am a highly experienced and proficient C#/.NET full-stack engineer with 20 years ofexperience in <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a>. I have excellent problem-solving and analysis skills, with above-average design, implementation, and troubleshooting capabilities, with back and front-end tooling.<br><br>I am a team player with exceptionally good communications skills, and a strong affinity for technical writing. I like to also engage with stakeholders outside of just the software development arena and learn about the business domains I work in.</p><p>A special interest in code quality assurance through the entire SDLC, and the use of automated and other tooling to identify potential code quality issues, set me apart from many other engineers.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "v3wajv6qia39vyaqj4sedsiv",
+          "visible": true,
+          "name": "Security Journey: White Belt",
+          "issuer": "Security Journey",
+          "date": "October 2022",
+          "summary": "<p>Cloud computing</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.securityjourney.com"
+          }
+        },
+        {
+          "id": "f9z8w667prl8fd1p65dub2az",
+          "visible": true,
+          "name": "Azure Essential Training for Developers",
+          "issuer": "LinkedIn",
+          "date": "April 2022",
+          "summary": "<p>Cloud Development, Microsoft Azure</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "m7jxiokuyd6banfgmsj2jk0y",
+          "visible": true,
+          "name": "  React.js Essential Training",
+          "issuer": "LinkedIn",
+          "date": "April 2022",
+          "summary": "<p>React.js</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ue2ufv7p60ks9hf7yt12k60x",
+          "visible": true,
+          "name": "C# AND .NET",
+          "issuer": "TestDone",
+          "date": "March 2022",
+          "summary": "<p>Windows Communication Foundation (WCF) · Object-Oriented Programming (OOP) · Cloud Computing · .NET Core · Databases · Test-Driven Development · Unit Testing · <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> Core</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.testdome.com/certificates/01a5154f82e84447aef40212f5e8e9c1"
+          }
+        },
+        {
+          "id": "svh25l2pqtv9lm9cbz0ml6bw",
+          "visible": true,
+          "name": "Project Management: The Basics for Success",
+          "issuer": "University of California",
+          "date": "September 2015",
+          "summary": "<p>Project Management, Communication, Leadership, Team Management</p>",
+          "url": {
+            "label": "",
+            "href": "https://coursera.org/share/78b71991f4f620ed8fab1a1602e2428b"
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "ouujsqltso71e7d6v4i6ekb0",
+          "visible": true,
+          "institution": "University of South Africa",
+          "studyType": "Diploma Datametrics",
+          "area": "Computer Science and Information Systems",
+          "score": "",
+          "date": "1994 to 1996",
+          "summary": "<p>Three year diploma in Computer Science and Information Systems</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "ghrfyh3ccerljgm64v9ssrnx",
+          "visible": true,
+          "company": "LexisNexis",
+          "position": "Senior Software Engineer",
+          "location": "Remote",
+          "date": "Sep 2022 to Sep 2023",
+          "summary": "<ul><li><p>Developed new features on a large and complex product that comprises multiple services, micro-services, and micro-frontends, hosted on AWS and Azure cloud infrastructures.</p></li><li><p>Maintained and developed Angular components and services for micro-frontend client applications.</p></li><li><p> Maintained and developed <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> REST API backend for frontend (BFF) applications, also known as feature peers.</p></li><li><p> Conducted complex debugging of Angular client applications that required multiple back and front-end components running simultaneously on production, QA, and local machine environments.</p></li><li><p> Administered user stories and work items in Azure DevOps.</p></li></ul><p><em>Reason for leaving:</em> I wanted to explore roles allowing more freedom in improving the development process.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "xo8n4i4ox7wlnk1zzjldaksg",
+          "visible": true,
+          "company": "XI Systems",
+          "position": "Senior Developer",
+          "location": "Johannesburg, South Africa",
+          "date": "Jul 2018 to Aug 2022",
+          "summary": "<ul><li><p>Designed, developed, and tested web UI and backend using <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> MVC and jQuery.</p></li><li><p>Designed and developed Windows Forms UI and backend.</p></li><li><p>Designed and developed Oracle and SQL Server databases.</p></li></ul><p><em>Reason for Leaving:</em> I preferred to find a position where I would be allowed to work from home in an emergency situation, such as temporarily being without transport, and just a little flexibly regarding general office hours.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "r4yxocvkta0vzush18y6xlkd",
+          "visible": true,
+          "company": "Qaits",
+          "position": "Software Developer",
+          "location": "Johannesburg, South Africa",
+          "date": "Aug 2015 to Mar 2016",
+          "summary": "<ul><li><p>Maintenance tasks on a large CRM system developed by Marvel, UK</p></li><li><p>Technologies used included <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> Web Forms, JavaScript, HTML, and CSS for design.</p></li></ul><p><em>Reason for Leaving</em>: I needed more room for skills development and career growth.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "g7vovkf07vkelb0zermj07yt",
+          "visible": true,
+          "company": "Applogix",
+          "position": "Freelance Developer",
+          "location": "Johannesburg, South Africa",
+          "date": "May 2015 to Jun 2015",
+          "summary": "<ul><li><p>Work on a small, cross-platform system for life assurance quotations on mobile devices</p></li><li><p>Technologies used were JavaScript, Angular, and HTML.</p></li></ul><p><em>Reason for Leaving: </em>It was a temporary, freelance position and I was not longer required.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "d6oxkrhk6tdf2bzyelfwfw9k",
+          "visible": true,
+          "company": "Self Employed",
+          "position": "Freelance Software Engineer",
+          "location": "Johannesburg, South Africa",
+          "date": "",
+          "summary": "<ul><li><p>I developed an advanced information transfer system that gathered messages from a mobile capture service called Canvas and converted them into inputs for a web API for Private Property. This allowed real estate listings captured on Canvas to be integrated into Private Property's Property Search service.</p></li><li><p>Technologies I used included a Windows Service written in C#, a WCF service for message retrieval, and a complex mapping system to adapt message content for the Private Property web API.</p></li></ul><p>Reason for Leaving: <br>I was approached about a better freelance position</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "ulufjf7ne6z2mqq4yxqtupa1",
+          "visible": true,
+          "name": "Coding",
+          "keywords": []
+        },
+        {
+          "id": "za2hwmaa9vep25f37snldgmo",
+          "visible": true,
+          "name": "History",
+          "keywords": []
+        },
+        {
+          "id": "sj14bngyvn229l9elyc8sur2",
+          "visible": true,
+          "name": "TV Series",
+          "keywords": []
+        },
+        {
+          "id": "drfovjgk7in34snld5ktyhd2",
+          "visible": true,
+          "name": "Electronics",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "sf0tcakdai6ehn9z38sich54",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "rep50nrfsta89f9y5fjrlx6h",
+          "visible": true,
+          "name": "Afrikaans",
+          "description": "",
+          "level": 4
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "bmy1tm84httd5nx4teeklmsx",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "bradykelly",
+          "icon": "",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/bradykelly"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "yodl5jijq0qo4lk56xzk0ed4",
+          "visible": true,
+          "name": "C#",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "zimp75f4b01lmliqfnd4wbve",
+          "visible": true,
+          "name": ".NET Core",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "o07g555o6h04xmf8cvz7n8b1",
+          "visible": true,
+          "name": ".NET Framework",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "z4tbpodf9v9ss591sq4eqhzp",
+          "visible": true,
+          "name": "JavaScript",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "j0f4at4t17dgy19utqt4zw10",
+          "visible": true,
+          "name": "Angular",
+          "description": "",
+          "level": 2,
+          "keywords": []
+        },
+        {
+          "id": "s2ltp5aeccjqrgn960l659fz",
+          "visible": true,
+          "name": "Entity Framework",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "gengar",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#dc2626"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
