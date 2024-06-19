@@ -1,0 +1,10 @@
+{
+  "summary": {
+    "name": "Summary",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "summary",
+    "content": "<p>I am a highly experienced and proficient C#/.NET full-stack engineer with 20 years ofexperience in <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a>. I have excellent problem-solving and analysis skills, with above-average design, implementation, and troubleshooting capabilities, with back and front-end tooling.<br><br>I am a team player with exceptionally good communications skills, and a strong affinity for technical writing. I like to also engage with stakeholders outside of just the software development arena and learn about the business domains I work in.</p><p>A special interest in code quality assurance through the entire SDLC, and the use of automated and other tooling to identify potential code quality issues, set me apart from many other engineers.</p>"
+  }
+}

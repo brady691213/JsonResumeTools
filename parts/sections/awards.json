@@ -1,0 +1,10 @@
+{
+  "awards": {
+    "name": "Awards",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "awards",
+    "items": []
+  }
+}

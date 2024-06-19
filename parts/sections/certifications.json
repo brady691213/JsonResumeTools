@@ -1,0 +1,71 @@
+{
+  "certifications": {
+    "name": "Certifications",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "certifications",
+    "items": [
+      {
+        "id": "v3wajv6qia39vyaqj4sedsiv",
+        "visible": true,
+        "name": "Security Journey: White Belt",
+        "issuer": "Security Journey",
+        "date": "October 2022",
+        "summary": "<p>Cloud computing</p>",
+        "url": {
+          "label": "",
+          "href": "https://www.securityjourney.com"
+        }
+      },
+      {
+        "id": "f9z8w667prl8fd1p65dub2az",
+        "visible": true,
+        "name": "Azure Essential Training for Developers",
+        "issuer": "LinkedIn",
+        "date": "April 2022",
+        "summary": "<p>Cloud Development, Microsoft Azure</p>",
+        "url": {
+          "label": "",
+          "href": ""
+        }
+      },
+      {
+        "id": "m7jxiokuyd6banfgmsj2jk0y",
+        "visible": true,
+        "name": "  React.js Essential Training",
+        "issuer": "LinkedIn",
+        "date": "April 2022",
+        "summary": "<p>React.js</p>",
+        "url": {
+          "label": "",
+          "href": ""
+        }
+      },
+      {
+        "id": "ue2ufv7p60ks9hf7yt12k60x",
+        "visible": true,
+        "name": "C# AND .NET",
+        "issuer": "TestDone",
+        "date": "March 2022",
+        "summary": "<p>Windows Communication Foundation (WCF) · Object-Oriented Programming (OOP) · Cloud Computing · .NET Core · Databases · Test-Driven Development · Unit Testing · <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> Core</p>",
+        "url": {
+          "label": "",
+          "href": "https://www.testdome.com/certificates/01a5154f82e84447aef40212f5e8e9c1"
+        }
+      },
+      {
+        "id": "svh25l2pqtv9lm9cbz0ml6bw",
+        "visible": true,
+        "name": "Project Management: The Basics for Success",
+        "issuer": "University of California",
+        "date": "September 2015",
+        "summary": "<p>Project Management, Communication, Leadership, Team Management</p>",
+        "url": {
+          "label": "",
+          "href": "https://coursera.org/share/78b71991f4f620ed8fab1a1602e2428b"
+        }
+      }
+    ]
+  }
+}

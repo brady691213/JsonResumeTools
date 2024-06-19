@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "name": "Profiles",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "profiles",
+    "items": [
+      {
+        "id": "bmy1tm84httd5nx4teeklmsx",
+        "visible": true,
+        "network": "LinkedIn",
+        "username": "bradykelly",
+        "icon": "",
+        "url": {
+          "label": "",
+          "href": "https://www.linkedin.com/in/bradykelly"
+        }
+      }
+    ]
+  }
+}

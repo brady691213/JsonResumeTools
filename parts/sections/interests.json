@@ -1,0 +1,35 @@
+{
+  "interests": {
+    "name": "Interests",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "interests",
+    "items": [
+      {
+        "id": "ulufjf7ne6z2mqq4yxqtupa1",
+        "visible": true,
+        "name": "Coding",
+        "keywords": []
+      },
+      {
+        "id": "za2hwmaa9vep25f37snldgmo",
+        "visible": true,
+        "name": "History",
+        "keywords": []
+      },
+      {
+        "id": "sj14bngyvn229l9elyc8sur2",
+        "visible": true,
+        "name": "TV Series",
+        "keywords": []
+      },
+      {
+        "id": "drfovjgk7in34snld5ktyhd2",
+        "visible": true,
+        "name": "Electronics",
+        "keywords": []
+      }
+    ]
+  }
+}

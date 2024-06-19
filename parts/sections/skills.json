@@ -1,0 +1,59 @@
+{
+  "skills": {
+    "name": "Skills",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "skills",
+    "items": [
+      {
+        "id": "yodl5jijq0qo4lk56xzk0ed4",
+        "visible": true,
+        "name": "C#",
+        "description": "",
+        "level": 4,
+        "keywords": []
+      },
+      {
+        "id": "zimp75f4b01lmliqfnd4wbve",
+        "visible": true,
+        "name": ".NET Core",
+        "description": "",
+        "level": 4,
+        "keywords": []
+      },
+      {
+        "id": "o07g555o6h04xmf8cvz7n8b1",
+        "visible": true,
+        "name": ".NET Framework",
+        "description": "",
+        "level": 4,
+        "keywords": []
+      },
+      {
+        "id": "z4tbpodf9v9ss591sq4eqhzp",
+        "visible": true,
+        "name": "JavaScript",
+        "description": "",
+        "level": 3,
+        "keywords": []
+      },
+      {
+        "id": "j0f4at4t17dgy19utqt4zw10",
+        "visible": true,
+        "name": "Angular",
+        "description": "",
+        "level": 2,
+        "keywords": []
+      },
+      {
+        "id": "s2ltp5aeccjqrgn960l659fz",
+        "visible": true,
+        "name": "Entity Framework",
+        "description": "",
+        "level": 3,
+        "keywords": []
+      }
+    ]
+  }
+}

@@ -15,11 +15,37 @@ importers:
       '@types/uuid':
         specifier: ^9.0.8
         version: 9.0.8
+      '@yellicode/templating':
+        specifier: ^1.9.0
+        version: 1.9.0
+      '@yellicode/typescript':
+        specifier: ^1.14.0
+        version: 1.14.0
 
 packages:
 
   '@types/uuid@9.0.8':
     resolution: {integrity: sha512-jg+97EGIcY9AGHJJRaaPVgetKDsrTgbRjQ5Msgjh/DQKEFl0DtyRr/VCOyD1T2R1MNeWPK/u7JoGhlDZnKBAfA==}
+
+  '@yellicode/core@1.5.0':
+    resolution: {integrity: sha512-ZgRISEbqA4KG+j4rxFKi0wz2LwLoX3KMzVrBZIIMhG1qdIQsmXM+dmllBgRn/HUxiCvRGE8V/C1L/alCVS4y5g==}
+
+  '@yellicode/elements@1.9.2':
+    resolution: {integrity: sha512-WJSl0zMjviZlCYkESYqygQ80ncgB8lAwIp6fIdo35Hl5QdKUn7OvKHO4EEXK9DJbAGq2VDK581IEH8MOlNr85Q==}
+
+  '@yellicode/templating@1.9.0':
+    resolution: {integrity: sha512-+2FiEkd11jFYQmpfHHyeb4wRZwK9RNkEueeJJcS+mD8L5KU3GCbpcxmqOhg0KzTkjQsqlYb/cLcKCbFr5UvWoQ==}
+
+  '@yellicode/typescript@1.14.0':
+    resolution: {integrity: sha512-o6jHsv1XNc1OrSApsXvjoBXgYb6TDz//xqYAS9K0VFv24hU51SZ2sgdLzr9f23XulariQS9N8TVkXu2UvsSg3Q==}
+
+  nanoid@3.3.7:
+    resolution: {integrity: sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==}
+    engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
+    hasBin: true
+
+  toposort@2.0.2:
+    resolution: {integrity: sha512-0a5EOkAUp8D4moMi2W8ZF8jcga7BgZd91O/yabJCFY8az+XSzeGyTKs0Aoo897iV1Nj6guFq8orWDS96z91oGg==}
 
   uuid@10.0.0:
     resolution: {integrity: sha512-8XkAphELsDnEGrDxUOHB3RGvXz6TeuYSGEZBOjtTtPm2lwhGBjLgOzLHB63IUWfBpNucQjND6d3AOudO+H3RWQ==}
@@ -28,5 +54,28 @@ packages:
 snapshots:
 
   '@types/uuid@9.0.8': {}
+
+  '@yellicode/core@1.5.0':
+    dependencies:
+      nanoid: 3.3.7
+
+  '@yellicode/elements@1.9.2':
+    dependencies:
+      '@yellicode/core': 1.5.0
+      toposort: 2.0.2
+
+  '@yellicode/templating@1.9.0':
+    dependencies:
+      '@yellicode/core': 1.5.0
+      '@yellicode/elements': 1.9.2
+
+  '@yellicode/typescript@1.14.0':
+    dependencies:
+      '@yellicode/core': 1.5.0
+      '@yellicode/elements': 1.9.2
+
+  nanoid@3.3.7: {}
+
+  toposort@2.0.2: {}
 
   uuid@10.0.0: {}

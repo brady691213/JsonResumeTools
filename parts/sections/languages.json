@@ -1,0 +1,25 @@
+{
+  "languages": {
+    "name": "Languages",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "languages",
+    "items": [
+      {
+        "id": "sf0tcakdai6ehn9z38sich54",
+        "visible": true,
+        "name": "English",
+        "description": "",
+        "level": 5
+      },
+      {
+        "id": "rep50nrfsta89f9y5fjrlx6h",
+        "visible": true,
+        "name": "Afrikaans",
+        "description": "",
+        "level": 4
+      }
+    ]
+  }
+}

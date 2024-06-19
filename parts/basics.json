@@ -1,0 +1,25 @@
+{
+  "basics": {
+    "name": "Brady Kelly",
+    "headline": "Senior Software Engineer",
+    "email": "brady691213@outlook.com",
+    "phone": "+27 60 718 4673",
+    "location": "Johannesburg, South Africa",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  }
+}

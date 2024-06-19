@@ -1,0 +1,76 @@
+{
+  "experience": {
+    "name": "Experience",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "experience",
+    "items": [
+      {
+        "id": "ghrfyh3ccerljgm64v9ssrnx",
+        "visible": true,
+        "company": "LexisNexis",
+        "position": "Senior Software Engineer",
+        "location": "Remote",
+        "date": "Sep 2022 to Sep 2023",
+        "summary": "<ul><li><p>Developed new features on a large and complex product that comprises multiple services, micro-services, and micro-frontends, hosted on AWS and Azure cloud infrastructures.</p></li><li><p>Maintained and developed Angular components and services for micro-frontend client applications.</p></li><li><p> Maintained and developed <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> REST API backend for frontend (BFF) applications, also known as feature peers.</p></li><li><p> Conducted complex debugging of Angular client applications that required multiple back and front-end components running simultaneously on production, QA, and local machine environments.</p></li><li><p> Administered user stories and work items in Azure DevOps.</p></li></ul><p><em>Reason for leaving:</em> I wanted to explore roles allowing more freedom in improving the development process.</p>",
+        "url": {
+          "label": "",
+          "href": ""
+        }
+      },
+      {
+        "id": "xo8n4i4ox7wlnk1zzjldaksg",
+        "visible": true,
+        "company": "XI Systems",
+        "position": "Senior Developer",
+        "location": "Johannesburg, South Africa",
+        "date": "Jul 2018 to Aug 2022",
+        "summary": "<ul><li><p>Designed, developed, and tested web UI and backend using <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> MVC and jQuery.</p></li><li><p>Designed and developed Windows Forms UI and backend.</p></li><li><p>Designed and developed Oracle and SQL Server databases.</p></li></ul><p><em>Reason for Leaving:</em> I preferred to find a position where I would be allowed to work from home in an emergency situation, such as temporarily being without transport, and just a little flexibly regarding general office hours.</p>",
+        "url": {
+          "label": "",
+          "href": ""
+        }
+      },
+      {
+        "id": "r4yxocvkta0vzush18y6xlkd",
+        "visible": true,
+        "company": "Qaits",
+        "position": "Software Developer",
+        "location": "Johannesburg, South Africa",
+        "date": "Aug 2015 to Mar 2016",
+        "summary": "<ul><li><p>Maintenance tasks on a large CRM system developed by Marvel, UK</p></li><li><p>Technologies used included <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> Web Forms, JavaScript, HTML, and CSS for design.</p></li></ul><p><em>Reason for Leaving</em>: I needed more room for skills development and career growth.</p>",
+        "url": {
+          "label": "",
+          "href": ""
+        }
+      },
+      {
+        "id": "g7vovkf07vkelb0zermj07yt",
+        "visible": true,
+        "company": "Applogix",
+        "position": "Freelance Developer",
+        "location": "Johannesburg, South Africa",
+        "date": "May 2015 to Jun 2015",
+        "summary": "<ul><li><p>Work on a small, cross-platform system for life assurance quotations on mobile devices</p></li><li><p>Technologies used were JavaScript, Angular, and HTML.</p></li></ul><p><em>Reason for Leaving: </em>It was a temporary, freelance position and I was not longer required.</p>",
+        "url": {
+          "label": "",
+          "href": ""
+        }
+      },
+      {
+        "id": "d6oxkrhk6tdf2bzyelfwfw9k",
+        "visible": true,
+        "company": "Self Employed",
+        "position": "Freelance Software Engineer",
+        "location": "Johannesburg, South Africa",
+        "date": "",
+        "summary": "<ul><li><p>I developed an advanced information transfer system that gathered messages from a mobile capture service called Canvas and converted them into inputs for a web API for Private Property. This allowed real estate listings captured on Canvas to be integrated into Private Property's Property Search service.</p></li><li><p>Technologies I used included a Windows Service written in C#, a WCF service for message retrieval, and a complex mapping system to adapt message content for the Private Property web API.</p></li></ul><p>Reason for Leaving: <br>I was approached about a better freelance position</p>",
+        "url": {
+          "label": "",
+          "href": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "publications": {
+    "name": "Publications",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "publications",
+    "items": []
+  }
+}

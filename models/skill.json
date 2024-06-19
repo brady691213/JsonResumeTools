@@ -1,0 +1,8 @@
+{
+  "id": "{{random-unique-id}}",
+  "visible": true,
+  "name": "{{skill-name}}",
+  "description": "",
+  "level": "{{skill-strength}}",
+  "keywords": []
+}

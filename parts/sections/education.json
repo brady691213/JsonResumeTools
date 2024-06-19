@@ -1,0 +1,25 @@
+{
+  "education": {
+    "name": "Education",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "education",
+    "items": [
+      {
+        "id": "ouujsqltso71e7d6v4i6ekb0",
+        "visible": true,
+        "institution": "University of South Africa",
+        "studyType": "Diploma Datametrics",
+        "area": "Computer Science and Information Systems",
+        "score": "",
+        "date": "1994 to 1996",
+        "summary": "<p>Three year diploma in Computer Science and Information Systems</p>",
+        "url": {
+          "label": "",
+          "href": ""
+        }
+      }
+    ]
+  }
+}

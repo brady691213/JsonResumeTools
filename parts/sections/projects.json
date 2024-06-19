@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "name": "Projects",
+    "columns": 1,
+    "separateLinks": true,
+    "visible": true,
+    "id": "projects",
+    "items": []
+  }
+}
