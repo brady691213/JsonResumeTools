@@ -156,7 +156,7 @@
           "visible": true,
           "company": "XI Systems",
           "position": "Senior Developer",
-          "location": "Johannesburg, South Africa",
+          "location": "Johannesbur, South Africa",
           "date": "Jul 2018 to Aug 2022",
           "summary": "<ul><li><p>Designed, developed, and tested web UI and backend using <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> MVC and jQuery.</p></li><li><p>Designed and developed Windows Forms UI and backend.</p></li><li><p>Designed and developed Oracle and SQL Server databases.</p></li></ul><p><em>Reason for Leaving:</em> I preferred to find a position where I would be allowed to work from home in an emergency situation, such as temporarily being without transport, and just a little flexibly regarding general office hours.</p>",
           "url": {
@@ -169,7 +169,7 @@
           "visible": true,
           "company": "Qaits",
           "position": "Software Developer",
-          "location": "Johannesburg, South Africa",
+          "location": "Johannesburg, South Africa",
           "date": "Aug 2015 to Mar 2016",
           "summary": "<ul><li><p>Maintenance tasks on a large CRM system developed by Marvel, UK</p></li><li><p>Technologies used included <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> Web Forms, JavaScript, HTML, and CSS for design.</p></li></ul><p><em>Reason for Leaving</em>: I needed more room for skills development and career growth.</p>",
           "url": {
@@ -182,7 +182,7 @@
           "visible": true,
           "company": "Applogix",
           "position": "Freelance Developer",
-          "location": "Johannesburg, South Africa",
+          "location": "Johannesburg, South Africa",
           "date": "May 2015 to Jun 2015",
           "summary": "<ul><li><p>Work on a small, cross-platform system for life assurance quotations on mobile devices</p></li><li><p>Technologies used were JavaScript, Angular, and HTML.</p></li></ul><p><em>Reason for Leaving: </em>It was a temporary, freelance position and I was not longer required.</p>",
           "url": {
@@ -195,8 +195,8 @@
           "visible": true,
           "company": "Self Employed",
           "position": "Freelance Software Engineer",
-          "location": "Johannesburg, South Africa",
-          "date": "",
+          "location": "Johannesburg, South Africa",
+          "date": "July 2014 to March 2015",
           "summary": "<ul><li><p>I developed an advanced information transfer system that gathered messages from a mobile capture service called Canvas and converted them into inputs for a web API for Private Property. This allowed real estate listings captured on Canvas to be integrated into Private Property's Property Search service.</p></li><li><p>Technologies I used included a Windows Service written in C#, a WCF service for message retrieval, and a complex mapping system to adapt message content for the Private Property web API.</p></li></ul><p>Reason for Leaving: <br>I was approached about a better freelance position</p>",
           "url": {
             "label": "",

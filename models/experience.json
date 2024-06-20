@@ -1,0 +1,13 @@
+{
+  "id": "d6oxkrhk6tdf2bzyelfwfw9k",
+  "visible": true,
+  "company": "Self Employed",
+  "position": "Freelance Software Engineer",
+  "location": "Johannesburg, South Africa",
+  "date": "",
+  "summary": "<ul><li><p>I developed an advanced information transfer system that gathered messages from a mobile capture service called Canvas and converted them into inputs for a web API for Private Property. This allowed real estate listings captured on Canvas to be integrated into Private Property's Property Search service.</p></li><li><p>Technologies I used included a Windows Service written in C#, a WCF service for message retrieval, and a complex mapping system to adapt message content for the Private Property web API.</p></li></ul><p>Reason for Leaving: <br>I was approached about a better freelance position</p>",
+  "url": {
+    "label": "",
+    "href": ""
+  }
+}
